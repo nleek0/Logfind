@@ -11,4 +11,20 @@ The program will then display all the files and lines that contain the given wor
 ## Example Usage
 In the terminal I type ```./logfind include```
 This is the output
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/f79ac16f-4abe-4220-97bf-a35c3d4ca709)
